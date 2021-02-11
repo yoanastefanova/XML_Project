@@ -1,0 +1,178 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE vinyls SYSTEM "vinyls.dtd">
+<?xml-stylesheet href="vinyls_html_2.xsl" type="text/xsl"?>
+
+
+<vinyls>
+    <vinyl id = "BTST3" coloured = "Yes">
+        <artist id = "BT">
+            <band>Billy Talent</band>
+            <style>Алтернативен Рок</style>
+        </artist>
+        <album length = "43:30">
+            <name>Billy Talent 3</name>
+            <genre>Пост-пънк</genre>
+            <song duration = "3:49">
+                <title>Devil on My Shoulder</title>
+            </song>
+            <song duration = "4:13">
+                <title>Rusted from the Rain</title>
+            </song>
+            <song duration = "4:09">
+                <title>Saint Veronica</title>
+            </song>
+            <song duration = "4:12">
+                <title>Tears Into Wine</title>
+            </song>
+            <song duration = "3:14">
+                <title>White Sparrows</title>
+            </song>
+            <song duration = "3:21">
+                <title>Pocketful of Dreams</title>
+            </song>
+            <song duration = "4:27">
+                <title>The Dead Can't testify</title>
+            </song>
+            <song duration = "4:30">
+                <title>Diamond on a Landmine</title>
+            </song>
+            <song duration = "3:22">
+                <title>Turn Your Back</title>
+            </song>
+            <song duration = "3:39">
+                <title>Sudden Movements</title>
+            </song>
+            <song duration = "4:03">
+               <title>Definition of Destiny</title> 
+            </song>
+        </album>
+        <year>2009</year>
+        <price>79 лева</price>
+        <colour>Зелен</colour>
+        <grams>190гр.</grams>
+        <inches>12"</inches>
+        <description>Издаден на 10 юли 2009 година, албумът дебютира като номер едно в Канада.</description>
+        <copies>2300 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+    <vinyl id = "INCSCIENCE" coloured = "Yes">
+        <artist id = "INC">
+            <band>Incubus</band>
+            <style>Алтернативен Рок</style>
+        </artist>
+        <album length = "55:52">
+            <name>S.C.I.E.N.C.E</name>
+            <genre>Ню Метал</genre>
+            <song duration = "3:22">
+                <title>Redefine</title>
+            </song>
+            <song duration = "3:13">
+                <title>Vitamin</title>
+            </song>
+            <song duration = "3:51">
+                <title>New Skin</title>
+            </song>
+            <song duration = "4:07">
+                <title>Idiot Box</title>
+            </song>
+            <song duration = "3:37">
+                <title>Glass</title>
+            </song>
+            <song duration = "3:03">
+                <title>Magic Medicine</title>
+            </song>
+            <song duration = "3:11">
+                <title>A Certain Shade of Green</title>
+            </song>
+            <song duration = "3:11">
+                <title>Favorite Things</title>
+            </song>
+            <song duration = "4:26">
+                <title>Summer Romance</title>
+            </song>
+            <song duration = "3:50">
+                <title>Nebula</title>
+            </song>
+            <song duration = "3:55">
+               <title>Deep Inside</title> 
+            </song>
+            <song duration = "16:05">
+                <title>Calgone</title>
+            </song>
+        </album>
+        <year>1997</year>
+        <price>90 лева</price>
+        <colour>Трансперантно Синьо</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <description>Това е вторият албум на групата. В него има влияние на джаз, фънк, хип-хоп и техно.</description>
+        <copies>2000 копия</copies>
+        <available>Не е в наличност</available>
+    </vinyl>
+
+
+
+    <vinyl id = "YMASSP">
+        <artist id = "YMAS">
+            <band>You Me At Six</band>
+            <style>Алтернативен Рок</style>
+        </artist>
+        <album length = "55:52">
+            <name>SUCKAPUNCH</name>
+            <genre>Рок</genre>
+            <song duration = "4:27">
+                <title>Nice to Me</title>
+            </song>
+            <song duration = "2:08">
+                <title>Make Me Feel Alive</title>
+            </song>
+            <song duration = "3:45">
+                <title>Beautiful Way</title>
+            </song>
+            <song duration = "3:29">
+                <title>WYDRN</title>
+            </song>
+            <song duration = "4:59">
+                <title>Suckapunch</title>
+            </song>
+            <song duration = "3:08">
+                <title>KIll the Mood</title>
+            </song>
+            <song duration = "5:39">
+                <title>Glasgow</title>
+            </song>
+            <song duration = "3:30">
+                <title>Adrenaline</title>
+            </song>
+            <song duration = "4:01">
+                <title>Voicenotes</title>
+            </song>
+            <song duration = "4:28">
+               <title>Finish What I Started</title> 
+            </song>
+            <song duration = "3:27">
+                <title>What's It Like</title>
+            </song>
+        </album>
+        <year>2021</year>
+        <price>55 лева</price>
+        <colour>Черен</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <description>Издаден на 15 януари 2021 година, това е седмият албум на групата.</description>
+        <copies>4000 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+
+
+
+
+
+
+
+    
+</vinyls>

@@ -1,0 +1,165 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE vinyls SYSTEM "vinyls.dtd">
+<?xml-stylesheet href="vinyls_html_3.xsl" type="text/xsl"?>
+
+
+<vinyls>
+    <vinyl id = "MKLUNA" coloured = "Yes">
+        <artist id = "MATK">
+            <band>Mat Kerekes</band>
+            <style>Инди Рок</style>
+        </artist>
+        <album length = "36:43">
+            <name> Luna &amp; the Wild Blue Everything</name>
+            <genre>Инди Рок</genre>
+            <song duration = "3:01">
+                <title>The Clubs / The People's Attention</title>
+            </song>
+            <song duration = "2:50">
+                <title>Direction</title>
+            </song>
+            <song duration = "3:41">
+                <title>My Lucky #3</title> 
+            </song>
+            <song duration = "3:42">
+                <title>In Every Inch, In Every Mile</title>
+            </song>
+            <song duration = "2:44">
+                <title>Bosque Verde</title>
+            </song>
+            <song duration = "3:28">
+                <title>Canvas</title>
+            </song>
+            <song duration = "4:35">
+                <title>Riding In Your Car</title>
+            </song>
+            <song duration = "4:02">
+                <title>From None</title>
+            </song>
+            <song duration = "4:39">
+                <title>...For Anyone</title>
+            </song>
+            <song duration = "3:41">
+                <title>The Means of ()</title>    
+            </song>
+        </album>
+        <year>2016</year>
+        <price>70 лева</price>
+        <colour>Син</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <copies>700 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+    <vinyl id = "MENZFE" coloured = "Yes">
+        <artist id = "BT">
+            <band>The Menzingers</band>
+            <style>Пънк Рок</style>
+        </artist>
+        <album length = "45:55">
+            <name>From Exile</name>
+            <genre>Пънк Рок</genre>
+            <song duration = "3:35">
+                <title>America</title>
+            </song>
+            <song duration = "3:29">
+                <title>Anna</title>
+            </song>
+            <song duration = "4:26">
+                <title>High School Friend</title>
+            </song>
+            <song duration = "3:53">
+                <title>Last to Know</title>
+            </song>
+            <song duration = "3:01">
+                <title>Strangers Forever</title>
+            </song>
+            <song duration = "4:26">
+                <title>Hello Exile</title>
+            </song>
+            <song duration = "2:44">
+                <title>Portland</title>
+            </song>
+            <song duration = "4:04">
+                <title>Strain Your Memory</title>
+            </song>
+            <song duration = "5:10">
+                <title>I Can't Stop Drinking</title>
+            </song>
+            <song duration = "3:04">
+                <title>Strawberry Mansion</title>
+            </song>
+            <song duration = "3:18">
+               <title>London Drugs</title> 
+            </song>
+            <song duration = "4:37">
+                <title>Farewell Youth</title> 
+             </song>
+        </album>
+        <year>2019</year>
+        <price>83 лева</price>
+        <colour>Кафяв</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <copies>2300 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+    <vinyl id = "NDADAI" coloured = "Yes">
+        <artist id = "ND">
+            <band>Neck Deep</band>
+            <style>Поп Рок</style>
+        </artist>
+        <album length = "39:35">
+            <name>All Distortions Are Intentional</name>
+            <genre>Пънк Рок</genre>
+            <song duration = "3:39">
+                <title>Sonderland</title>
+            </song>
+            <song duration = "3:34">
+                <title>Fall</title>
+            </song>
+            <song duration = "3:09">
+                <title>Lowlife</title>
+            </song>
+            <song duration = "3:19">
+                <title>Telling Stories</title>
+            </song>
+            <song duration = "3:09">
+                <title>When You Know</title>
+            </song>
+            <song duration = "1:26">
+                <title>Quarry</title>
+            </song>
+            <song duration = "3:47">
+                <title>Sick Joke</title>
+            </song>
+            <song duration = "3:33">
+                <title>What Took You So Long</title>
+            </song>
+            <song duration = "3:34">
+                <title>Empty House</title>
+            </song>
+            <song duration = "3:04">
+                <title>Little Dove</title>
+            </song>
+            <song duration = "3:38">
+               <title>I Revolve (Around You)</title> 
+            </song>
+            <song duration = "3:43">
+                <title>Pushing Daisies</title> 
+             </song>
+        </album>
+        <year>2019</year>
+        <price>50 лева</price>
+        <colour>Оранжев</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <copies>3400 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+</vinyls>

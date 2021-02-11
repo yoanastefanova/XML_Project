@@ -1,0 +1,158 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE vinyls SYSTEM "vinyls.dtd">
+<?xml-stylesheet href="vinyls_html_4.xsl" type="text/xsl"?>
+
+
+<vinyls>
+    <vinyl id = "MVNGLTG" coloured = "Yes">
+        <artist id = "MV">
+            <band>Movements</band>
+            <style>Емо</style>
+        </artist>
+        <album length = "43:57">
+            <name>No Good Left to Give</name>
+            <genre>Алтернативен Рок</genre>
+            <song duration = "3:33">
+                <title>In My Blood</title>
+            </song>
+            <song duration = "4:01">
+                <title>Skin to Skin</title>
+            </song>
+            <song duration = "3:57">
+                <title>Don't Give Up Your Ghost</title> 
+            </song>
+            <song duration = "4:01">
+                <title>Tunnel Vision</title>
+            </song>
+            <song duration = "3:24">
+                <title>Garden Eyes</title>
+            </song>
+            <song duration = "3:42">
+                <title>12 Weeks</title>
+            </song>
+            <song duration = "4:07">
+                <title>Living Apology</title>
+            </song>
+            <song duration = "4:13">
+                <title>Santiago Peak</title>
+            </song>
+            <song duration = "3:10">
+                <title>Seneca</title>
+            </song>
+            <song duration = "3:37">
+                <title>Moonlight Lines</title>    
+            </song>
+            <song duration = "1:35">
+                <title>No Good Left to Give</title>    
+            </song>
+            <song duration = "4:37">
+                <title>Love Took the Last of It</title>    
+            </song>
+        </album>
+        <year>2020</year>
+        <price>65 лева</price>
+        <colour>Розов</colour>
+        <grams>190гр.</grams>
+        <inches>12"</inches>
+        <copies>3100 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+    <vinyl id = "PUPTDIO" coloured = "Yes">
+        <artist id = "PUP">
+            <band>PUP</band>
+            <style>Пънк Рок</style>
+        </artist>
+        <album length = "30:31">
+            <name>No Good Left to Give</name>
+            <genre>Пънк рок</genre>
+            <song duration = "2:18">
+                <title>If This Tour Doesn't Kill You, I Will</title>
+            </song>
+            <song duration = "2:28">
+                <title>DVP</title>
+            </song>
+            <song duration = "3:00">
+                <title>Doubts</title> 
+            </song>
+            <song duration = "3:21">
+                <title>Sleep in the Heat</title>
+            </song>
+            <song duration = "3:53">
+                <title>The Coast</title>
+            </song>
+            <song duration = "2:19">
+                <title>Old Wounds</title>
+            </song>
+            <song duration = "2:26">
+                <title>My Life Is Over and I Couldn't Be Happier</title>
+            </song>
+            <song duration = "3:07">
+                <title>Can't Win</title>
+            </song>
+            <song duration = "3:39">
+                <title>Familiar Patterns</title>
+            </song>
+            <song duration = "4:00">
+                <title>Pine Point</title>    
+            </song>
+        </album>
+        <year>2016</year>
+        <price>40 лева</price>
+        <colour>Бебешко Розово</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <copies>300 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+    <vinyl id = "BMTHPH">
+        <artist id = "BMTH">
+            <band>Bring Me the Horizon</band>
+            <style>Металкор</style>
+        </artist>
+        <album length = "32:10">
+            <name>Post Human: Survival Horror</name>
+            <genre>Металкор</genre>
+            <song duration = "2:44">
+                <title>Dear Diary</title>
+            </song>
+            <song duration = "4:51">
+                <title>Parasite Eve</title>
+            </song>
+            <song duration = "3:35">
+                <title>Teardrops</title> 
+            </song>
+            <song duration = "3:40">
+                <title>Obey</title>
+            </song>
+            <song duration = "1:26">
+                <title>Itch for the Cure </title>
+            </song>
+            <song duration = "3:38">
+                <title>Kingslayer</title>
+            </song>
+            <song duration = "3:29">
+                <title>1x1</title>
+            </song>
+            <song duration = "4:40">
+                <title>Ludens</title>
+            </song>
+            <song duration = "4:03">
+                <title>One Day the Only Butterflies Left Will Be in Your Chest as You March Towards Your Death</title>
+            </song>
+        </album>
+        <year>2020</year>
+        <price>35 лева</price>
+        <colour>Черен</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <copies>3000 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+
+
+</vinyls>

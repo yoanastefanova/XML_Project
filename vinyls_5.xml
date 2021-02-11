@@ -1,0 +1,167 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE vinyls SYSTEM "vinyls.dtd">
+<?xml-stylesheet href="vinyls_xml_1.xsl" type="text/xsl"?>
+
+
+
+<vinyls>
+    <vinyl id = "FYSRDT" coloured = "Yes">
+        <artist id = "FYS">
+            <band>Four Year Strong</band>
+            <style>Поп Пънк</style>
+        </artist>
+        <album length = "32:16">
+            <name>No Good Left to Give</name>
+            <genre>Мелодичен хардкор</genre>
+            <song duration = "1:34">
+                <title>The Take Over</title>
+            </song>
+            <song duration = "3:07">
+                <title>Prepare to Be Digitally Manipulated</title>
+            </song>
+            <song duration = "3:33">
+                <title>Abandon Ship or Abandon All Hope</title> 
+            </song>
+            <song duration = "3:36">
+                <title>Heroes Get Remembered, Legends Never Die</title>
+            </song>
+            <song duration = "3:12">
+                <title>Wrecked 'Em? Damn Near Killed 'Em</title>
+            </song>
+            <song duration = "2:37">
+                <title>Catastrophe</title>
+            </song>
+            <song duration = "3:06">
+                <title>Men Are from Mars, Women Are from Hell</title>
+            </song>
+            <song duration = "3:22">
+                <title>Bada Bing! Wit' a Pipe!</title>
+            </song>
+            <song duration = "3:03">
+                <title>Beatdown in the Key of Happy</title>
+            </song>
+            <song duration = "3:18">
+                <title>If He's Here, Who's Runnin' Hell?</title>    
+            </song>
+            <song duration = "3:08">
+                <title>Maniac (R.O.D.)</title>    
+            </song>
+        </album>
+        <year>2019</year>
+        <price>90 лева</price>
+        <colour>Кристал/Лилаво</colour>
+        <grams>190гр.</grams>
+        <inches>12"</inches>
+        <copies>1500 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+    <vinyl id = "OWTSMG" coloured = "Yes">
+        <artist id = "OASIS">
+            <band>Oasis</band>
+            <style>Рок</style>
+        </artist>
+        <album length = "50:00">
+            <name>(What's the Story) Morning Glory?</name>
+            <genre>Мелодичен хардкор</genre>
+            <song duration = "3:21">
+                <title>Hello</title>
+            </song>
+            <song duration = "3:59">
+                <title>Roll With It</title>
+            </song>
+            <song duration = "4:18">
+                <title>Wonderwall</title> 
+            </song>
+            <song duration = "4:48">
+                <title>Don't Look Back In Anger</title>
+            </song>
+            <song duration = "5:41">
+                <title>Hey Now!</title>
+            </song>
+            <song duration = "0:44">
+                <title>The Swamp Song 1</title>
+            </song>
+            <song duration = "5:29">
+                <title>Some Might Say</title>
+            </song>
+            <song duration = "4:51">
+                <title>Cast No Shadow</title>
+            </song>
+            <song duration = "3:40">
+                <title>She's Electric</title>
+            </song>
+            <song duration = "5:03">
+                <title>Morning Glory</title>    
+            </song>
+            <song duration = "0:39">
+                <title>The Swamp Song 2</title>    
+            </song>
+            <song duration = "7:27">
+                <title>Champagne Supernova</title>    
+            </song>
+        </album>
+        <year>1995</year>
+        <price>57 лева</price>
+        <colour>Сребърен</colour>
+        <grams>190гр.</grams>
+        <inches>12"</inches>
+        <copies>1500 копия</copies>
+        <available>Не е наличност</available>
+    </vinyl>
+
+
+    <vinyl id = "RTJ4" coloured = "Yes">
+        <artist id = "RTJ">
+            <band>Run The Jewels</band>
+            <style>Хип Хоп</style>
+        </artist>
+        <album length = "38:57">
+            <name>RTJ4</name>
+            <genre>Хип Хоп</genre>
+            <song duration = "2:26">
+                <title>Yankee and the Bravе</title>
+            </song>
+            <song duration = "3:01">
+                <title>Ooh La La</title>
+            </song>
+            <song duration = "3:21">
+                <title>Out of Sight</title> 
+            </song>
+            <song duration = "3:58">
+                <title>Holy Calamafuck</title>
+            </song>
+            <song duration = "3:03">
+                <title>Goonies vs. E.T.</title>
+            </song>
+            <song duration = "3:55">
+                <title>Walking in the Snow</title>
+            </song>
+            <song duration = "3:25">
+                <title>Just</title>
+            </song>
+            <song duration = "2:57">
+                <title>Never Look Back</title>
+            </song>
+            <song duration = "2:32">
+                <title>The Ground Below</title>
+            </song>
+            <song duration = "3:37">
+                <title>Pulling the Pin</title>    
+            </song>
+            <song duration = "6:42">
+                <title>A Few Words for the Firing Squad</title>    
+            </song>
+        </album>
+        <year>2020</year>
+        <price>120 лева</price>
+        <colour>Маджента/Златен</colour>
+        <grams>190гр.</grams>
+        <inches>12"</inches>
+        <copies>1500 копия</copies>
+        <available>Не е наличност</available>
+    </vinyl>
+
+
+</vinyls>

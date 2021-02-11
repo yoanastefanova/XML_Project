@@ -1,0 +1,202 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE vinyls [
+<!ELEMENT vinyls (vinyl+)>
+    <!ELEMENT vinyl (artist, album, year, price, colour*, grams, inches, description?, condition?, copies, available)>
+        <!ATTLIST vinyl id ID #REQUIRED
+                    coloured  (Yes|No) #IMPLIED>              
+        <!ELEMENT artist (band, style, hiatus?)>
+            <!ATTLIST artist 
+                        id ID #REQUIRED>
+        <!ELEMENT album (name, genre, rating?, song+)>
+            <!ATTLIST album 
+                        length CDATA #REQUIRED>
+            <!ELEMENT song (title)>  
+                <!ATTLIST song 
+                            duration CDATA #REQUIRED>
+
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT colour (#PCDATA)>
+<!ELEMENT grams (#PCDATA)>
+<!ELEMENT inches (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT condition (#PCDATA)>   
+<!ELEMENT copies (#PCDATA)>
+<!ELEMENT available (#PCDATA)>
+<!ELEMENT band (#PCDATA)>
+<!ELEMENT style (#PCDATA)>
+<!ELEMENT hiatus (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+]> 
+<?xml-stylesheet href="vinyls_html_1.xsl" type="text/xsl"?>
+
+
+
+
+
+<vinyls>
+    <vinyl id = "BTST2" coloured = "Yes">
+        <artist id = "BT">
+            <band>Billy Talent</band>
+            <style>Пънк Рок</style>
+        </artist>
+        <album length = "47:00">
+            <name>Billy Talent 2</name>
+            <genre>Алтернативен рок</genre>
+            <song duration = "2:52">
+                <title>Devil in a Midnight Mass</title>
+            </song>
+            <song duration = "3:16">
+                <title>Red Flag</title>
+            </song>
+            <song duration = "3:57">
+                <title>This Suffering </title>
+            </song>
+            <song duration = "3:44">
+                <title>Worker Bees</title>
+            </song>
+            <song duration = "3:11">
+                <title>Pins and Needles</title>
+            </song>
+            <song duration = "3:19">
+                <title>Fallen Leaves</title>
+            </song>
+            <song duration = "3:49">
+                <title>Where Is the Line?</title>
+            </song>
+            <song duration = "4:12">
+                <title>Covered in Cowardice</title>
+            </song>
+            <song duration = "4:06">
+                <title>Surrender</title>
+            </song>
+            <song duration = "4:31">
+                <title>The Navy Song</title>
+            </song>
+            <song duration = "3:06">
+               <title>Perfect World</title> 
+            </song>
+            <song duration = "3:18">
+               <title>Sympathy</title> 
+            </song>
+            <song duration = "3:40">
+                <title>Burn the Evidence</title>
+            </song>
+        </album>
+        <year>2006</year>
+        <price>45 лева</price>
+        <colour>Бял</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <description>Това е вторият студиен албум на групата, който достига 134 място в класацията на Billboard.</description>
+        <copies>1600 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+
+
+    <vinyl id = "DEFTOHMS" coloured = "Yes">
+        <artist id = "DEFT">
+            <band>Deftones</band>
+            <style>Алтернативен Метал</style>
+        </artist>
+        <album length = "46:17">
+            <name>Ohms</name>
+            <genre>Алтернативен Метал</genre>
+            <song duration = "5:17">
+                <title>Genesis</title>
+            </song>
+            <song duration = "3:27">
+                <title>Ceremony</title>
+            </song>
+            <song duration = "4:30">
+                <title>Urantia</title>
+            </song>
+            <song duration = "4:50">
+                <title>Error</title>
+            </song>
+            <song duration = "5:27">
+                <title>The Spell of Mathematics</title>
+            </song>
+            <song duration = "5:25">
+                <title>Pompeji</title>
+            </song>
+            <song duration = "4:37">
+                <title>This Link Is Dead</title>
+            </song>
+            <song duration = "3:35">
+                <title>Radiant City</title>
+            </song>
+            <song duration = "4:59">
+                <title>Headless</title>
+            </song>
+            <song duration = "4:10">
+                <title>Ohms</title>    
+            </song>
+        </album>
+        <year>2020</year>
+        <price>50 лева</price>
+        <colour>Златен</colour>
+        <grams>180гр.</grams>
+        <inches>12"</inches>
+        <description>Това е деветият албум на групата Deftones, издаден на 25 септември 2020 година</description>
+        <copies>2700 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+    <vinyl id = "FFMAM" coloured = "Yes">
+        <artist id = "FF">
+            <band>Foo Fighters</band>
+            <style>Пост-Гръндж</style>
+        </artist>
+        <album length = "36:32">
+            <name>Medicine at Midnight</name>
+            <genre>Алтернативен Рок</genre>
+            <song duration = "4:15">
+                <title>Making a Fire</title>
+            </song>
+            <song duration = "4:17">
+                <title>Shame Shame</title>
+            </song>
+            <song duration = "3:53">
+                <title>Cloudspotter</title>
+            </song>
+            <song duration = "4:13">
+                <title>Waiting on a War</title>
+            </song>
+            <song duration = "3:30">
+                <title>Medicine at Midnight</title>
+            </song>
+            <song duration = "3:28">
+                <title>No Son of Mine</title>
+            </song>
+            <song duration = "4:24">
+                <title>Holding Poison</title>
+            </song>
+            <song duration = "4:12">
+                <title>Chasing Birds</title>
+            </song>
+            <song duration = "4:20">
+                <title>Love Dies Young</title>
+            </song>
+        </album>
+        <year>2021</year>
+        <price>40 лева</price>
+        <colour>Светлосин</colour>
+        <grams>190гр.</grams>
+        <inches>12"</inches>
+        <description>Издаването на този албум беше отложено с една година поради Ковид обстановката.</description>
+        <copies>700 копия</copies>
+        <available>В наличност</available>
+    </vinyl>
+
+
+   
+    
+
+</vinyls>

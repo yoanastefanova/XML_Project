@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    grid-template-columns: auto;
+    grid-template-rows: 44% 44%;
+    height: 50%;
+    margin: 100px 100px 100px 100px;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.image {
+    float: left;
+}
+
+.content{
+    float: right;
+    margin: 100px;
+    margin-bottom: -100%;
+}
+
+
+.content .image{
+    align-content: flex-start;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT vinyls (vinyl+)>
+    <!ELEMENT vinyl (artist, album, year, price, colour*, grams, inches, description?, condition?, copies, available)>
+        <!ATTLIST vinyl id ID #REQUIRED
+                    coloured  (Yes|No) #IMPLIED>              
+        <!ELEMENT artist (band, style, hiatus?)>
+            <!ATTLIST artist 
+                        id ID #REQUIRED>
+        <!ELEMENT album (name, genre, rating?, song+)>
+            <!ATTLIST album 
+                        length CDATA #REQUIRED>
+            <!ELEMENT song (title)>  
+                <!ATTLIST song 
+                            duration CDATA #REQUIRED>
+
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT colour (#PCDATA)>
+<!ELEMENT grams (#PCDATA)>
+<!ELEMENT inches (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT condition (#PCDATA)>   
+<!ELEMENT copies (#PCDATA)>
+<!ELEMENT available (#PCDATA)>
+<!ELEMENT band (#PCDATA)>
+<!ELEMENT style (#PCDATA)>
+<!ELEMENT hiatus (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
